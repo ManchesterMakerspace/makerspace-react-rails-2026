@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "makerspace/react/rails2026/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "makerspace-react-Rails2026"
+  spec.name          = "makerspace-react-rails2026"
   spec.version       = Makerspace::React::Rails2026::VERSION
   spec.authors       = ["Manchester Makerspace"]
   spec.email         = ["kkadow@manchestermakerspace.org"]
@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
-  spec.add_development_dependency "bundler", "~> 1.16"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "bundler"
+  spec.add_development_dependency "rake"
 end
