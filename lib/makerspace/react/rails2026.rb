@@ -1,8 +1,8 @@
-require "makerspace/react/rails/version"
+require "makerspace/react/rails2026/version"
 
 module Makerspace
   module React
-    module Rails-2026
+    module Rails2026
       class Engine < ::Rails::Engine; end
     end
   end

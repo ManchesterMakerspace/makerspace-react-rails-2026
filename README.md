@@ -5,7 +5,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'makerspace-react-rails-2026'
+gem 'makerspace-react-rails2026'
 ```
 
 And then execute:
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install makerspace-react-rails
+    $ gem install makerspace-react-rails2026
 
 ## Usage
 
