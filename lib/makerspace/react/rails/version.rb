@@ -1,7 +1,7 @@
 module Makerspace
   module React
-    module Rails
-      VERSION = "0.1.0"
+    module Rails-2026
+      VERSION = "0.1.1"
     end
   end
 end
