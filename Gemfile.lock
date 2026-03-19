@@ -6,7 +6,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    rake
+    rake (13.3.1)
 
 PLATFORMS
   ruby
